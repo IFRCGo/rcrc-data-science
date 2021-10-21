@@ -1,5 +1,5 @@
 # RCRC Data Science
-Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application.
+Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Response
 
