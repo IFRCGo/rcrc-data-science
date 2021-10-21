@@ -3,13 +3,13 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 
 ## 1. Disaster Response
 
-## 1. Impact-Based Forecasting
+## 2. Impact-Based Forecasting
 
-## 1. Fundraising
+## 3. Fundraising
 
-## 1. Community Engagement and Accountability
+## 4. Community Engagement and Accountability
 
-## 1. Restoring Family Links
+## 5. Restoring Family Links
 - [**Trace the Face - Facial Recognition**](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019-?)*   
 AI-based facial recognition, to automate searching and matching.
 
