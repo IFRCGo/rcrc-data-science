@@ -1,5 +1,5 @@
 # RCRC Data Science
-Collection of open-source [data science](#datascience) projects in the Red Cross Red Crescent Movement. By data science it is meant: advanced mathematical models, algorithms, machine learning and artificial intelligence.
+Collection of open-source [data science](#datascience) projects in the Red Cross Red Crescent Movement.
 
 ## 1. Instance Segmentation
 
