@@ -1,6 +1,17 @@
 # RCRC Data Science
-Collection of open-source [data science](#datascience) projects in the Red Cross Red Crescent Movement, divided by topic.
+Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application.
 
-## 1. Instance Segmentation
+## 1. Disaster Response
+
+## 1. Impact-Based Forecasting
+
+## 1. Fundraising
+
+## 1. Community Engagement and Accountability
+
+## 1. Restoring Family Links
+- [**Trace the Face - Facial Recognition**](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019-?)*   
+AI-based facial recognition, to automate searching and matching.
+
 
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything.
