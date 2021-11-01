@@ -8,16 +8,16 @@ Identify areas vulnerable to the effects of COVID-19.
 ## 2. Early Warning Early Action
 - [Community-Based Surveillance (CBS)](https://github.com/IFRCGo/cbs) *(IFRC, 2017-2019)*
 Platform for data collection, management and analysis (reporting, aggregation) on community health risks. 
-- [Impact-Based Forecasting (IBF) system](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)* 
+- [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)* 
 Tools required to trigger, manage and execute the Red Cross Early Action Protocols for natural disasters. Currently supporting several forecasting models
     - [Floods](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
-    - [Heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
-    - [Tropical cyclone (hurricane, typhoonm, cyclone)](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model)
+    - [Heavy Rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
+    - [Tropical Cyclone (Hurricane, Typhoonm, Cyclone)](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model)
     - [Dengue](https://github.com/rodekruis/IBF-dengue-model)
 
 ## 3. Disaster Response
-- [Automated Building Detection from satellite images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
-- [Automated Damage Assessment from satellite images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
+- [Automated Building Detection from Satellite Images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
+- [Automated Damage Assessment from Satellite Images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
 
 ## 5. Community Engagement and Accountability
 
