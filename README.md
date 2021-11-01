@@ -16,13 +16,13 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
     - [Dengue](https://github.com/rodekruis/IBF-dengue-model)
 
 ## 3. Disaster Response
-- Automated Building Detection from satellite images: [code](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
-- Automated Damage Assessment from satellite images: [code](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
+- [Automated Building Detection from satellite images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
+- [Automated Damage Assessment from satellite images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
 
 ## 5. Community Engagement and Accountability
 
 ## 6. Restoring Family Links
-- [**Trace the Face - Facial Recognition**](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
+- [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
 AI-based facial recognition, to automate searching and matching.
 
 ## 7. Fundraising
