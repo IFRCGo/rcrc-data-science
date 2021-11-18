@@ -2,6 +2,11 @@
 Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
+| Project | Description | RCRC Member | Team | Contact |
+| --------------- | :-----: | :-----: | :-----: | -------------- | 
+| COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight |  |
+| Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management | [Paola Yela](paola.yela@ifrc.org) | 
+
 - [COVID-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability) *(BRCS, 2020)*<br/>
 Identify areas vulnerable to the effects of COVID-19.
 - [Classification system for lessons learnt from final DREF reports according to PER framework](https://github.com/IFRCGo/DREF-NLP) *(IFRC, 2021)*
@@ -22,6 +27,7 @@ Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disast
 - Damage classification from street-level imagery *(AmRC, 2020)*
 - [Building material classification from street-level imagery (Mapillary)](https://github.com/rodekruis/building-material-classification) *(NLRC, 2020)*
 - [Prediction of migration flow through Europe](https://github.com/SimonbJohnson/greece-15-migration-routes) *(BRC, 2016)*
+- [Summarization of humanitarian response documents](https://github.com/IFRCGo/summarization-humanitarian-documents) *(IFRC, 2019)*
 
 ## 4. Disaster Recovery
 
