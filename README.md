@@ -18,6 +18,9 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
 ## 3. Disaster Response
 - [Automated Building Detection from Satellite Images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
 - [Automated Damage Assessment from Satellite Images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
+- [Automated Damage Assessment from Satellite Images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
+- Damage classification from street level imagery *(AmRC, 2020)*
+- [Prediction of migration flow through Europe](https://github.com/SimonbJohnson/greece-15-migration-routes) *(BRC, 2016)*
 
 ## 5. Community Engagement and Accountability
 
@@ -27,5 +30,5 @@ AI-based facial recognition, to automate searching and matching.
 
 ## 7. Fundraising
 
-
+https://github.com/sebastianruder/NLP-progress
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything.
