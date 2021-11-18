@@ -10,7 +10,7 @@ Identify areas vulnerable to the effects of COVID-19.
 - [Community-Based Surveillance (CBS)](https://github.com/IFRCGo/cbs) *(IFRC, 2017-2019)*<br/>
 Platform for data collection, management and analysis (reporting, aggregation) on community health risks. 
 - [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)*<br/> 
-Trigger, manage and execute Red Cross Early Action Protocols for natural disasters. Currently supporting several forecasting models
+Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models
     - [Flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
     - [Heavy Rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
     - [Tropical Cyclone (Hurricane, Typhoon, Cyclone)](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model)
