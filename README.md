@@ -5,7 +5,6 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | Project | Description | RCRC Member | Team |
 | --------------- | :-----: | :-----: | :----- |
 | COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight. Contact [here](https://twitter.com/matthewgthomas).| 
-| Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Innovation. Contact [here](daniel.joseph@redcross.org). |
 | Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). | 
 
 
@@ -24,6 +23,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | Building Material Classification  | Building material classification from street-level imagery (Mapillary) | The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). |
 | Migration flow prediction | Prediction of migration flow through Europe [exercise](https://medium.com/@Simon_B_Johnson/predicting-migration-flow-through-europe-3b93b0482fcd). Code available [here](https://github.com/SimonbJohnson/greece-15-migration-routes) | British Red Cross | SIMS support. Contact [here](https://twitter.com/Simon_B_Johnson). |
 | Summarization of response documents  | Summarization of documents and news articles related with the response-stage of a disaster. Code available [here](https://github.com/IFRCGo/summarization-humanitarian-documents) | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). |
+| Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Innovation. Contact [here](daniel.joseph@redcross.org). |
 
 ## 4. Disaster Recovery
 
