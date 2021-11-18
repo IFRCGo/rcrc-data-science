@@ -5,6 +5,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | Project | Description | RCRC Member | Team |
 | --------------- | :-----: | :-----: | :----- |
 | COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight. Contact [here](https://twitter.com/matthewgthomas).| 
+| Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Innovation. Contact [here](daniel.joseph@redcross.org). |
 | Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). | 
 
 
