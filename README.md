@@ -2,24 +2,17 @@
 Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
-| Project | Description | RCRC Member | Team | Contact |
-| --------------- | :-----: | :-----: | :-----: | -------------- | 
-| COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight |  |
-| Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management | [Paola Yela](paola.yela@ifrc.org) | 
+| Project | Description | RCRC Member | Team |
+| --------------- | :-----: | :-----: | :----- |
+| COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight. | 
+| Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). | 
 
-- [COVID-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability) *(BRCS, 2020)*<br/>
-Identify areas vulnerable to the effects of COVID-19.
-- [Classification system for lessons learnt from final DREF reports according to PER framework](https://github.com/IFRCGo/DREF-NLP) *(IFRC, 2021)*
 
 ## 2. Early Warning Early Action
-- [Community-Based Surveillance (CBS)](https://github.com/IFRCGo/cbs) *(IFRC, 2017-2019)*<br/>
-Platform for data collection, management and analysis (reporting, aggregation) on community health risks. 
-- [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)*<br/> 
-Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models
-    - [Flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
-    - [Heavy Rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
-    - [Tropical Cyclone (Hurricane, Typhoon, Cyclone)](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model)
-    - [Dengue](https://github.com/rodekruis/IBF-dengue-model)
+| Project | Description | RCRC Member | Team | 
+| --------------- | :-----: | :-----: | :----- |
+| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks. Code available [here](https://github.com/IFRCGo/cbs).| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](nyss@redcross.no). |
+| Impact Based forecasting (IBF) System|  Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models ([flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE), [heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline), [tropical cyclone](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), [dengue](https://github.com/rodekruis/IBF-dengue-model)). Code available [here](https://github.com/rodekruis/IBF-system).| The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). |  
 
 ## 3. Disaster Response
 - [Automated Building Detection from Satellite Images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
