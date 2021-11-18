@@ -22,13 +22,11 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
 - Damage classification from street level imagery *(AmRC, 2020)*
 - [Prediction of migration flow through Europe](https://github.com/SimonbJohnson/greece-15-migration-routes) *(BRC, 2016)*
 
-## 5. Community Engagement and Accountability
+## 4. Disaster Recovery
 
-## 6. Restoring Family Links
+## 5. Other
 - [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
 AI-based facial recognition, to automate searching and matching.
-
-## 7. Fundraising
 
 ## Notes
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything. Similar initiatives to this project are the [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/) and the [UNECE High-Level Group for the Modernisation of Official Statistics Machine Learning Project](https://statswiki.unece.org/display/ML/HLG-MOS+Machine+Learning+Project). 
