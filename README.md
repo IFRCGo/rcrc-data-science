@@ -2,14 +2,14 @@
 Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
-- [COVID-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability) *(BRCS, 2020)*
+- [COVID-19 Vulnerability Index](https://github.com/britishredcrosssociety/covid-19-vulnerability) *(BRCS, 2020)*<br/>
 Identify areas vulnerable to the effects of COVID-19.
 - [Classification system for lessons learnt from final DREF reports according to PER framework](https://github.com/IFRCGo/DREF-NLP) *(IFRC, 2021)*
 
 ## 2. Early Warning Early Action
-- [Community-Based Surveillance (CBS)](https://github.com/IFRCGo/cbs) *(IFRC, 2017-2019)*
+- [Community-Based Surveillance (CBS)](https://github.com/IFRCGo/cbs) *(IFRC, 2017-2019)*<br/>
 Platform for data collection, management and analysis (reporting, aggregation) on community health risks. 
-- [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)* 
+- [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)*<br/> 
 Tools required to trigger, manage and execute the Red Cross Early Action Protocols for natural disasters. Currently supporting several forecasting models
     - [Flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
     - [Heavy Rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
@@ -19,15 +19,16 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
 ## 3. Disaster Response
 - [Automated Building Detection from Satellite Images](https://github.com/rodekruis/automated-building-detection) *(NLRC, 2020-now)*
 - [Automated Damage Assessment from Satellite Images](https://github.com/rodekruis/caladrius) *(NLRC, 2019-now)*
-- Damage classification from street level imagery *(AmRC, 2020)*
+- Damage classification from street-level imagery *(AmRC, 2020)*
+- [Building material classification from street-level imagery (Mapillary)](https://github.com/rodekruis/building-material-classification) *(NLRC, 2020)*
 - [Prediction of migration flow through Europe](https://github.com/SimonbJohnson/greece-15-migration-routes) *(BRC, 2016)*
 
 ## 4. Disaster Recovery
 
 ## 5. Other
-- [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
+- [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*<br/>   
 AI-based facial recognition, to automate searching and matching.
-- [Marketing Optimization Systems (no code)](https://www.linkedin.com/pulse/ai-help-brands-content-creation-enhancing-customer-samarawickrama/) *(AusRC, 2020-now)* 
+- [Marketing Optimization Systems (no code)](https://www.linkedin.com/pulse/ai-help-brands-content-creation-enhancing-customer-samarawickrama/) *(AusRC, 2020-now)*<br/>
 Send the right message to the right donors, to maximise donations; predict how much they are going to donate. Contact: [Mahendra Samarawickrama](https://github.com/samarawickrama)
 
 ## Notes
