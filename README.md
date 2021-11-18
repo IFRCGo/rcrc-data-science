@@ -27,7 +27,7 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
 ## 5. Other
 - [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
 AI-based facial recognition, to automate searching and matching.
-- [Marketing Optimization Systems (no code)](https://www.linkedin.com/pulse/ai-help-brands-content-creation-enhancing-customer-samarawickrama/) *(AusRC, 2020-now)*
+- [Marketing Optimization Systems (no code)](https://www.linkedin.com/pulse/ai-help-brands-content-creation-enhancing-customer-samarawickrama/) *(AusRC, 2020-now)* 
 Send the right message to the right donors, to maximise donations; predict how much they are going to donate. Contact: [Mahendra Samarawickrama](https://github.com/samarawickrama)
 
 ## Notes
