@@ -11,7 +11,7 @@ Identify areas vulnerable to the effects of COVID-19.
 Platform for data collection, management and analysis (reporting, aggregation) on community health risks. 
 - [Impact-Based Forecasting (IBF) System](https://github.com/rodekruis/IBF-system) *(NLRC, 2020-now)* 
 Tools required to trigger, manage and execute the Red Cross Early Action Protocols for natural disasters. Currently supporting several forecasting models
-    - [Floods](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
+    - [Flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE)
     - [Heavy Rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline)
     - [Tropical Cyclone (Hurricane, Typhoon, Cyclone)](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model)
     - [Dengue](https://github.com/rodekruis/IBF-dengue-model)
@@ -27,6 +27,8 @@ Tools required to trigger, manage and execute the Red Cross Early Action Protoco
 ## 5. Other
 - [Trace the Face - Facial Recognition (no code)](https://familylinks.icrc.org/europe/en/pages/home.aspx) *(ICRC, 2019)*   
 AI-based facial recognition, to automate searching and matching.
+- [Marketing Optimization Systems (no code)](https://www.linkedin.com/pulse/ai-help-brands-content-creation-enhancing-customer-samarawickrama/) *(AusRC, 2020-now)*
+Send the right message to the right donors, to maximise donations; predict how much they are going to donate. Contact: [Mahendra Samarawickrama](https://github.com/samarawickrama)
 
 ## Notes
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything. Similar initiatives to this project are the [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/) and the [UNECE High-Level Group for the Modernisation of Official Statistics Machine Learning Project](https://statswiki.unece.org/display/ML/HLG-MOS+Machine+Learning+Project). 
