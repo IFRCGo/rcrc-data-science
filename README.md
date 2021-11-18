@@ -30,5 +30,5 @@ AI-based facial recognition, to automate searching and matching.
 
 ## 7. Fundraising
 
-https://github.com/sebastianruder/NLP-progress
+## Notes
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything.
