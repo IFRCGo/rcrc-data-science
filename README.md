@@ -19,11 +19,11 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | --------------- | :-----: | :-----: | :----- |
 | Building Detection Model | Automated Building Detection Model from Satellite Images. Code available [here](https://github.com/rodekruis/automated-building-detection).| The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). | 
 | Damage Assessment Model |  Automated Damage Assessment from Satellite Images. Code available [here](https://github.com/rodekruis/caladrius).| The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). | 
-| Damage Assessment Model |  Automated Damage Assessment from Street level Images. | American Red Cross | Innovation. Contact [here](daniel.joseph@redcross.org). |
+| Damage Assessment Model |  Automated Damage Assessment from Street level Images. | American Red Cross | Data and Tech. Contact [here](mailto:daniel.joseph@redcross.org). |
 | Building Material Classification  | Building material classification from street-level imagery (Mapillary) | The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). |
 | Migration flow prediction | Prediction of migration flow through Europe [exercise](https://medium.com/@Simon_B_Johnson/predicting-migration-flow-through-europe-3b93b0482fcd). Code available [here](https://github.com/SimonbJohnson/greece-15-migration-routes) | British Red Cross | SIMS support. Contact [here](https://twitter.com/Simon_B_Johnson). |
 | Summarization of response documents  | Summarization of documents and news articles related with the response-stage of a disaster. Code available [here](https://github.com/IFRCGo/summarization-humanitarian-documents) | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). |
-| Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Innovation. Contact [here](daniel.joseph@redcross.org). |
+| Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Data and Tech. Contact [here](mailto:daniel.joseph@redcross.org). |
 
 ## 4. Disaster Recovery
 
