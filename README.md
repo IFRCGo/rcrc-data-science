@@ -1,5 +1,5 @@
 # RCRC Data Science
-Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
+Collection of [data science](#datascience) projects and resources in the IFRC and RCRC National Societies, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
 | Project | Description | RCRC Member | Team |
@@ -29,8 +29,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 
 ## 5. Other
 | Project | Description | RCRC Member | Team | 
-| --------------- | :-----: | :-----: | :----- |
-| Trace the Face - Facial Recognition | Facial recognition [project](https://familylinks.icrc.org/europe/en/pages/home.aspx).| ICRC | Contact [here](familylinks@icrc.org). | 
+| --------------- | :-----: | :-----: | :----- | 
 | Marketing Optimization Systems | Recommendation of projects to donors to maximise possible donations.| Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). | 
 | Churn prediction modeling | It's a predictive model that estimates the propensity the donors have to stop making donations. | Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). |
 
