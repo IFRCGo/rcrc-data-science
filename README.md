@@ -32,6 +32,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | --------------- | :-----: | :-----: | :----- |
 | Trace the Face - Facial Recognition | Facial recognition [project](https://familylinks.icrc.org/europe/en/pages/home.aspx).| ICRC | Contact [here](familylinks@icrc.org). | 
 | Marketing Optimization Systems | Recommendation of projects to donors to maximise possible donations.| Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). | 
+| Churn prediction modeling | It's a predictive model that estimates the propensity the donors have to stop making donations. | Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). |
 
 
 ## Notes
