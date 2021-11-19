@@ -11,7 +11,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 ## 2. Early Warning Early Action
 | Project | Description | RCRC Member | Team | 
 | --------------- | :-----: | :-----: | :----- |
-| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks. Code available [here](https://github.com/IFRCGo/cbs).| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](nyss@redcross.no). |
+| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks. Code available [here](https://github.com/IFRCGo/cbs).| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](rachel.goodermote@ifrc.org). |
 | Impact Based forecasting (IBF) System|  Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models ([flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE), [heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline), [tropical cyclone](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), [dengue](https://github.com/rodekruis/IBF-dengue-model)). Code available [here](https://github.com/rodekruis/IBF-system).| The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). |  
 
 ## 3. Disaster Response
