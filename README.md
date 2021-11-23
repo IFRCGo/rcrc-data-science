@@ -1,5 +1,5 @@
 # RCRC Data Science
-Collection of [data science](#datascience) projects and resources in the Red Cross Red Crescent Movement, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
+Collection of [data science](#datascience) projects and resources in the IFRC network, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral interchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
 | Project | Description | RCRC Member | Team |
@@ -11,7 +11,7 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 ## 2. Early Warning Early Action
 | Project | Description | RCRC Member | Team | 
 | --------------- | :-----: | :-----: | :----- |
-| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks. Code available [here](https://github.com/IFRCGo/cbs).| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](nyss@redcross.no). |
+| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks.| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](rachel.goodermote@ifrc.org). |
 | Impact Based forecasting (IBF) System|  Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models ([flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE), [heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline), [tropical cyclone](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), [dengue](https://github.com/rodekruis/IBF-dengue-model)). Code available [here](https://github.com/rodekruis/IBF-system).| The Netherlands Red Cross | 510. Contact [here](jmargutti@redcross.nl). |  
 
 ## 3. Disaster Response
@@ -25,13 +25,14 @@ Collection of [data science](#datascience) projects and resources in the Red Cro
 | Summarization of response documents  | Summarization of documents and news articles related with the response-stage of a disaster. Code available [here](https://github.com/IFRCGo/summarization-humanitarian-documents) | IFRC | Information Management. Contact [here](paola.yela@ifrc.org). |
 | Free text assessment | Text classification/Topic modeling of open answers from primary data collection.| American Red Cross | Data and Tech. Contact [here](mailto:daniel.joseph@redcross.org). |
 
+
 ## 4. Disaster Recovery
 
 ## 5. Other
 | Project | Description | RCRC Member | Team | 
-| --------------- | :-----: | :-----: | :----- |
-| Trace the Face - Facial Recognition | Facial recognition [project](https://familylinks.icrc.org/europe/en/pages/home.aspx).| ICRC | Contact [here](familylinks@icrc.org). | 
+| --------------- | :-----: | :-----: | :----- | 
 | Marketing Optimization Systems | Recommendation of projects to donors to maximise possible donations.| Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). | 
+| Churn prediction modeling | It's a predictive model that estimates the propensity the donors have to stop making donations. | Australian Red Cross | Data Science and Analytics. Contact [here](https://github.com/samarawickrama). |
 
 
 ## Notes
