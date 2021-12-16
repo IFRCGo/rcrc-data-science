@@ -5,6 +5,8 @@ Collection of [data science](#datascience) projects and resources in the IFRC ne
 | Project | Description | RCRC Member | Team |
 | --------------- | :-----: | :-----: | :----- |
 | COVID-19 Vulnerability Index | Identify areas vulnerable to the effects of COVID-19. Code available [here](https://github.com/britishredcrosssociety/covid-19-vulnerability).| British Red Cross | Strategic Insight and Foresight. Contact [here](mailto:mattthomas@redcross.org.uk).| 
+| NHS Capacity Analysis | National Health System performance for specific areas in UK. Code available [here](https://github.com/britishredcrosssociety/nhs-capacity).| British Red Cross | Strategic Insight and Foresight. Contact [here](mailto:mattthomas@redcross.org.uk).| 
+| Resilience Index | Resilience Index combining vulnerability and capacity to cope for UK geographies. Code available [here](https://github.com/britishredcrosssociety/resilience-index).| British Red Cross | Strategic Insight and Foresight. Contact [here](mailto:mattthomas@redcross.org.uk).| 
 | Classification of DREF Lessons Learnt|  Classify lessons learnt according to [PER](https://www.ifrc.org/disaster-preparedness) categories. Code available [here](https://github.com/IFRCGo/DREF-NLP). | IFRC | Information Management. Contact [here](mailto:paola.yela@ifrc.org). | 
 
 
