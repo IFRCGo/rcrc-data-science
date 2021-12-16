@@ -14,7 +14,7 @@ Collection of [data science](#datascience) projects and resources in the IFRC ne
 | Project | Description | RCRC Member | Team | 
 | --------------- | :-----: | :-----: | :----- |
 | Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks.| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact [here](mailto:rachel.goodermote@ifrc.org). |
-| Impact Based forecasting (IBF) System|  Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models ([flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE), [heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline), [tropical cyclone](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), [dengue](https://github.com/rodekruis/IBF-dengue-model)). Code available [here](https://github.com/rodekruis/IBF-system).| The Netherlands Red Cross | 510. Contact [here](mailto:jmargutti@redcross.nl). |  
+| Impact Based forecasting (IBF) System |  Trigger, manage and execute RCRC Early Action Protocols (EAP) for natural disasters. Currently supporting several forecasting models ([flood](https://github.com/rodekruis/IBF_FLOOD_PIPELINE), [heavy rainfall](https://github.com/rodekruis/IBF-rainfall-pipeline), [tropical cyclone](https://github.com/rodekruis/Typhoon-Impact-based-forecasting-model), [dengue](https://github.com/rodekruis/IBF-dengue-model)). Code available [here](https://github.com/rodekruis/IBF-system).| The Netherlands Red Cross | 510. Contact [here](mailto:jmargutti@redcross.nl). |  
 
 ## 3. Disaster Response
 | Project | Description | RCRC Member | Team | 
@@ -35,7 +35,7 @@ Collection of [data science](#datascience) projects and resources in the IFRC ne
 | --------------- | :-----: | :-----: | :----- | 
 | Marketing Optimization Systems | Recommendation of projects to donors to maximise possible donations.| Australian Red Cross | Data Science and Analytics. Contact [here](mailto:msamarawickrama@redcross.org.au). | 
 | Churn prediction modeling | It's a predictive model that estimates the propensity the donors have to stop making donations. | Australian Red Cross | Data Science and Analytics. Contact [here](mailto:msamarawickrama@redcross.org.au). |
-
+| geographr |R package for mapping UK geographies. Code available [here](https://github.com/britishredcrosssociety/geographr).| British Red Cross | Strategic Insight and Foresight. Contact [here](mailto:mattthomas@redcross.org.uk).|
 
 ## Notes
 <a name="datascience">Data science</a>: largely regarded as a blend of various tools, mathematical models, algorithms, Machine Learning (ML) and Artificial Intelligence (AI) techniques that aim to discover patterns, correlations and relationships from data. The different “categories” of data science are not definitive, nor universally agreed on, which is why we use the expression “data science” to try and avoid excluding anything. Similar initiatives to this project are the [Catalogue Of Predictive Models In The Humanitarian Sector](https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/) and the [UNECE High-Level Group for the Modernisation of Official Statistics Machine Learning Project](https://statswiki.unece.org/display/ML/HLG-MOS+Machine+Learning+Project). 
