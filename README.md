@@ -1,5 +1,5 @@
 # RCRC Data Science
-Collection of [data science](#datascience) projects and resources in the IFRC network, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral exchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, [send us an email](mailto:jmargutti</span>@</span>redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
+Collection of [data science](#datascience) projects and resources in the IFRC network, roughly divided by area of application. Its main purpose is to raise awareness of what other National Societies are doing to motivate bilateral exchanges. If there is any error in the information provided please [open an issue](https://github.com/IFRCGo/rcrc-data-science/issues). If you want to add a new project, <a href="mailto:&#106;&#109;&#97;&#114;&#103;&#117;&#116;&#116;&#105;&#64;&#114;&#101;&#100;&#99;&#114;&#111;&#115;&#115;&#46;&#110;&#108;" itemprop="trailer">Trailer</a>  [send us an email](mailto:jmargutti@redcross.nl,paola.yela@ifrc.org) or [open a pull request](https://github.com/IFRCGo/rcrc-data-science/pulls).
 
 ## 1. Disaster Preparedness
 | Project | Description | RCRC Member | Team |
