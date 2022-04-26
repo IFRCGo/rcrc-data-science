@@ -20,7 +20,7 @@ Collection of [data science](#datascience) projects and resources in the IFRC ne
 ## 2. Health and Care
 | Project | Description | RCRC Member | Team | 
 | --------------- | :-----: | :-----: | :----- |
-| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks.| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact <a href="mailto:&#114;&#97;&#99;&#104;&#101;&#108;&#46;&#103;&#111;&#111;&#100;&#101;&#114;&#109;&#111;&#116;&#101;&#64;&#105;&#102;&#114;&#99;&#46;&#111;&#114;&#103;">here</a>. |
+| Community-Based Surveillance (CBS) | A platform that allows real-time detection, reporting, aggregation, and analysis of information on community health risks. Code available [here](https://github.com/nyss-platform-norcross/nyss)| Norwegian Red Cross, IFRC, Belgium Red Cross | CBS, Health,-. Contact <a href="mailto:&#114;&#97;&#99;&#104;&#101;&#108;&#46;&#103;&#111;&#111;&#100;&#101;&#114;&#109;&#111;&#116;&#101;&#64;&#105;&#102;&#114;&#99;&#46;&#111;&#114;&#103;">here</a>. |
 
 ## 3. National Society Development
 | Project | Description | RCRC Member | Team | 
